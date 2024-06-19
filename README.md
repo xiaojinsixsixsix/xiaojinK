@@ -1,15 +1,17 @@
-#景点移动导游系统
-开发语言：Java
-框架：springboot
-JDK版本：JDK1.8
-服务器：tomcat7
-数据库：mysql 5.7
-数据库工具：Navicat11
-开发软件：IDEA
-Maven包：Maven3.3.9
-浏览器：谷歌浏览器
-安卓框架：uniapp
-安卓开发软件：HBuilder X
-开发模式：混合开发
-管理员账号：admin
-管理员密码：admin
+# 景点移动导游系统 
+##  项目简介 
+* 开发语言：Java
+* 框架：springboot
+* JDK版本：JDK1.8
+* 服务器：tomcat7
+* 数据库：mysql 5.7
+* 数据库工具：Navicat11
+* 开发软件：IDEA
+* Maven包：Maven3.3.9
+* 浏览器：谷歌浏览器
+* 安卓框架：uniapp
+* 安卓开发软件：HBuilder X
+* 开发模式：混合开发
+* 管理员账号：admin  管理员密码：admin
+## 系统功能 
+* 景点移动导游系统设计与实现该系统包括用户：旅游景点、地图、我的发帖、修改密码，管理员：个人中心、用户管理、旅游景点、景点分类、分享论坛、系统管理等
