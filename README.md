@@ -10,3 +10,5 @@ Maven包：Maven3.3.9
 安卓框架：uniapp
 安卓开发软件：HBuilder X
 开发模式：混合开发
+管理员账号：admin
+管理员密码：admin
