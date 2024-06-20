@@ -20,3 +20,5 @@
 ![旅游景点管理18154948](https://github.com/xiaojinsixsixsix/xiaojinK/assets/169874785/53834979-547f-4510-b2d9-4f01a5d222c6)
 ![用户端票价显示40523213058](https://github.com/xiaojinsixsixsix/xiaojinK/assets/169874785/4df1bb6a-209d-423b-84fe-08e4072081b1)
 ![管理端个人中心54614](https://github.com/xiaojinsixsixsix/xiaojinK/assets/169874785/ed9768b5-4d71-47b4-8827-19413cdf5f07)
+![用户端首页图852](https://github.com/xiaojinsixsixsix/xiaojinK/assets/169874785/021287dc-3d03-4848-ba21-c675aed64a62)
+![管理修改](https://github.com/xiaojinsixsixsix/xiaojinK/assets/169874785/ae289156-8866-4e19-ac98-3094ac651fb9)
